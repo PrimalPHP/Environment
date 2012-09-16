@@ -1,0 +1,22 @@
+{
+	"name": "Primal/Environment",
+	"description": "Very basic environmental settings management library",
+	"homepage": "http://github.com/Primal/Environment",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jarvis Badgley",
+			"homepage": "http://chipersoft.com",
+			"email": "primal@chipersoft.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.10"
+	},
+	"type": "library",
+	"autoload": {
+        "psr-0": {
+            "Primal": "lib\/"
+        }
+    }
+}
